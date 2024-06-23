@@ -1,0 +1,16 @@
+current directory: /home/roberto/Documents/repos/rubal501.github.io/vendor/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/usr/bin/ruby -I /usr/lib/ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/roberto/Documents/repos/rubal501.github.io/vendor/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240618-57777-1qoat8 sitelibdir\=./.gem.20240618-57777-1qoat8 clean
+
+current directory: /home/roberto/Documents/repos/rubal501.github.io/vendor/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240618-57777-1qoat8 sitelibdir\=./.gem.20240618-57777-1qoat8
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/roberto/Documents/repos/rubal501.github.io/vendor/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240618-57777-1qoat8 sitelibdir\=./.gem.20240618-57777-1qoat8 install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20240618-57777-1qoat8
