@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Javier Roberto Rubalcava-Cortés"
   pronouns         : # example: "she/her"  
-  bio              : "MSc Mathematics Student | Mathematical Modeling & Machine Learning Enthusiast"
+  bio              : "MSc Student | Mathematical Modeling & Machine Learning Enthusiast"
   location         : "Mexico City"
   employer         : "UNAM"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : https://scholar.google.com/citations?user=Q8UMYXgAAAAJ&hl=en
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
