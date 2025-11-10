@@ -11,5 +11,5 @@ I am a mathematician currently pursuing my Master's degree in Mathematics at Uni
 
 During my academic journey, I've focused on integrating theoretical frameworks with computational methods. I enjoy translating complex theoretical concepts into practical implementations using programming languages such as Julia, Python, and MATLAB. 
 
-In my free time to take pictures you can see some of them in my [Tumblr](https://www.tumblr.com/digitalteporingo)
+In my free time I like to take pictures, you can see some of them in my [Tumblr](https://www.tumblr.com/digitalteporingo)
 I also play judo 🥋.
