@@ -1,15 +1,19 @@
 ---
 permalink: /
-title: "Welcome to my personal site"
+title: "Roberto's personal site"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a mathematician currently pursuing my Master's degree in Mathematics at Universidad Nacional Autónoma de México (UNAM), where I recently graduated with honors from my bachelor's program. My primary research interests lie in modelling biological systems, particularly cancer.
 
-During my academic journey, I've focused on integrating theoretical frameworks with computational methods. I enjoy translating complex theoretical concepts into practical implementations using programming languages such as Julia, Python, and MATLAB. 
 
-In my free time I like to take pictures, you can see some of them in my [Tumblr](https://www.tumblr.com/digitalteporingo)
-I also play judo 🥋.
+I'm a  master's student in applied mathematics at the national autonomous university of Mexico (UNAM). I'm intrested in mathematical modelling and computational biology.
+
+Currently I'm working under the supervision of Elisa Dominguez Huttinger, take a look at the whole team!
+
+For my bachelor's degree I wrote a thesis where a gave an overview of evolutionary game theory and it's applications to tumour population modelling.
+
+
+
