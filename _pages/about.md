@@ -9,11 +9,8 @@ redirect_from:
 
 
 
-I'm a  master's student in applied mathematics at the national autonomous university of Mexico (UNAM). I'm intrested in mathematical modelling and computational biology.
+Hi, I'm Roberto.
 
-Currently I'm working under the supervision of Elisa Dominguez Huttinger, take a look at the whole team!
+I’m a Master’s student in Applied Mathematics at the National Autonomous University of Mexico (UNAM), passionate about mathematical modelling and computational biology.
 
-For my bachelor's degree I wrote a thesis where a gave an overview of evolutionary game theory and it's applications to tumour population modelling.
-
-
-
+I currently conduct my research under the supervision of Elisa Dominguez Huttinger (check out the work of our [link: whole team]). Before my Master's, I completed my Bachelor’s thesis on evolutionary game theory and its applications in modelling tumour populations.
