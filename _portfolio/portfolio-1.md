@@ -1,4 +1,9 @@
-# Local beats global: estimating TP53 mutation effects with ESM-2 embeddings
+---
+title: "Local beats global: estimating TP53 mutation effects with ESM-2 embeddings"
+excerpt: "I embedded 228 synthetic TP53 mutants with ESM-2 to ask whether local representations beat global ones — and whether either beats the classic BLOSUM62 baseline. Local context wins, but BLOSUM62 still holds its ground at canonical hotspots."
+collection: portfolio
+---
+
 
 A single amino-acid substitution can turn off a protein — and predicting which missense mutations are harmful from sequence alone remains one of the hardest problems in computational biology. TP53, the most frequently mutated gene in human cancer, is a prime example: thousands of its variants have known functional effects, but most possible substitutions remain uncharacterized. Sharpen the opening by foregrounding the central challenge right away.
 
