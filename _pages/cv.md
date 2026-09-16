@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My updated CV is available in [PDF](/files/cv_en.pdf)
+My updated CV is available in [PDF](https://drive.google.com/file/d/1p6m-mvhfozBVxNLTtyBFbqc0HzDibAtp/view?usp=sharing)
 
 Education
 ======
