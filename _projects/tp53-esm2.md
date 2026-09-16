@@ -1,7 +1,8 @@
 ---
 title: "Local beats global: estimating TP53 mutation effects with ESM-2 embeddings"
 excerpt: "I embedded 228 synthetic TP53 mutants with ESM-2 to ask whether local representations beat global ones — and whether either beats the classic BLOSUM62 baseline. Local context wins, but BLOSUM62 still holds its ground at canonical hotspots."
-collection: portfolio
+collection: projects
+redirect_from: /portfolio/portfolio-1/
 ---
 
 
