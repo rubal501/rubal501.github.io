@@ -40,7 +40,7 @@ Research Experience
 
 Work Experience
 ======
-**Lecturer — Mathematical Modelling for Biology (Undergraduate)** — Faculty of Sciences, National Autonomous University of Mexico, Mexico City, Mexico (May 2026 – Present)
+**Part-time Lecturer — Mathematical Modelling for Biology (Undergraduate)** — Faculty of Sciences, National Autonomous University of Mexico, Mexico City, Mexico (May 2026 – Present)
 
 **Teaching Assistant — Artificial Intelligence (Undergraduate)** — Faculty of Sciences, National Autonomous University of Mexico, Mexico City, Mexico (Aug 2024 – present)
 * Provided academic support, clarifying coursework, and offering personalized guidance. Developed and graded assignments and exams.
