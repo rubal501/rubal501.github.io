@@ -5,9 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**Update: I just got my first position as lecturer at the department of biology!!**
+**Update: I just got my first position as part-time lecturer at the department of biology!!**
 
-## Lecturer
+## Part-time lecturer
 - Faculty of Science, National Autonomous University of Mexico.
   - 2026 Fall
     - [Mathematical modeling for Biology](https://web.fciencias.unam.mx/docencia/horarios/presentacion/375465)
